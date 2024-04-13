@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JWDev60
+- 👀 I’m interested in JavaScript, and Web Scraping/Api Usage
+- 🌱 I’m currently learning JavaScript
+- 😄 Pronouns: He/Him
