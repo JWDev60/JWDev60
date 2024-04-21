@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save and View Page</title>
+</head>
+<body>
+    <h1>Save Page</h1>
+    <form action="save.php" method="post">
+        <label for="authorization_key">Authorization Key:</label><br>
+        <input type="text" id="authorization_key" name="authorization_key"><br>
+        <label for="title">Title:</label><br>
+        <input type="text" id="title" name="title"><br>
+        <label for="body">Body:</label><br>
+        <textarea id="body" name="body"></textarea><br>
+        <input type="submit" value="Save">
+    </form>
+    
+    <h1>View Page</h1>
+    <div id="view_panel">
+        <?php include 'view.php'; ?>
+    </div>
+
+    <script>
+        // Function to refresh the view panel
+        function refreshViewPanel() {
+            var viewPanel = document.getElementById('view_panel');
+            viewPanel.innerHTML = '';
+            fetch('view.php')
+                .then(response => response.text())
+                .then(html => {
+                    viewPanel.innerHTML = html;
+                });
+        }
+    </script>
+</body>
+</html>
