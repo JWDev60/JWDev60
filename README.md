@@ -1,16 +1,40 @@
-- 👋 Hi, I’m @JWDev60
+<div align="center">
+  <h1>JWDev60</h1>
+  <p>
+    <a href="https://discord.gg/peZ4ZYXF9W">
+      <img src="https://img.shields.io/badge/Discord-WhisperStudios231234-blue" alt="Discord">
+    </a>
+    <a href="https://github.com/JWDev60">
+      <img src="https://img.shields.io/badge/GitHub-JWDev60-brightgreen" alt="GitHub">
+    </a>
+  </p>
+</div>
 
-- 👀 I’m interested in JavaScript, Web Scraping/API Usage, Web Dev, Game Dev, and App Dev
+---
 
-- 🌱 I’m currently learning JavaScript
+## Learning and Thinking About
 
-- 😄 Pronouns: He/Him
+- Currently learning JavaScript
 
-- 💭 I'm currently thinking about/planning An Open Source Apps/Games Launcher, and A Roblox Info Grabber (Will Be Using Roblox's Official Cloud API's)
+- Currently thinking about/planning Nothing... Yet...
 
-Contact me via my below listed Contact Methods if you want to help with any of the projects marked with a ❗ Symbol
+---
 
-  == Contact Methods:
-- Discord -- JWW.8663
-- Email -- jack.the.dev.2222@gmail.com
-- GitHub -- @JWDev60
+## Projects
+
+- RBLXinfo - Roblox Info Grabber Using Roblox's Official Cloud API's [RBLXinfo](https://github.com/JWDev60/RBLXinfo)
+- MegaLauncher - An Apps/Games Launcher -- Currently On Hold -- No Info Will Be Released Yet
+
+---
+
+## Contact Details
+
+- Discord: JWW.8663
+- GitHub: [JWDev60](https://github.com/JWDev60)
+- Email: [jack.the.dev.2222@gmail.com](mailto:jack.the.dev.2222@gmail.com)
+
+---
+
+[![Discord](https://img.shields.io/badge/Discord-WhisperStudios%231234-blue)](https://discord.gg/peZ4ZYXF9W)
+[![GitHub](https://img.shields.io/badge/GitHub-JWDev60-brightgreen)](https://github.com/JWDev60)
+[![Email](https://img.shields.io/badge/Email-red)](mailto:jack.the.dev.2222@gmail.com)
