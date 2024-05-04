@@ -1,5 +1,6 @@
 <div align="center">
   <h1>JWDev60</h1>
+  <p>Pronouns: He/Him</p>
   <p>
     <a href="https://discord.gg/peZ4ZYXF9W">
       <img src="https://img.shields.io/badge/Discord-WhisperStudios-blue" alt="Discord">
