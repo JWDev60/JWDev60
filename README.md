@@ -2,7 +2,7 @@
   <h1>JWDev60</h1>
   <p>
     <a href="https://discord.gg/peZ4ZYXF9W">
-      <img src="https://img.shields.io/badge/Discord-WhisperStudios231234-blue" alt="Discord">
+      <img src="https://img.shields.io/badge/Discord-WhisperStudios-blue" alt="Discord">
     </a>
     <a href="https://github.com/JWDev60">
       <img src="https://img.shields.io/badge/GitHub-JWDev60-brightgreen" alt="GitHub">
@@ -35,6 +35,6 @@
 
 ---
 
-[![Discord](https://img.shields.io/badge/Discord-WhisperStudios%231234-blue)](https://discord.gg/peZ4ZYXF9W)
+[![Discord](https://img.shields.io/badge/Discord-WhisperStudios-blue)](https://discord.gg/peZ4ZYXF9W)
 [![GitHub](https://img.shields.io/badge/GitHub-JWDev60-brightgreen)](https://github.com/JWDev60)
 [![Email](https://img.shields.io/badge/Email-red)](mailto:jack.the.dev.2222@gmail.com)
